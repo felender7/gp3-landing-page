@@ -1,5 +1,4 @@
 # Modern UI/UX GPT-3 Landing Page
-### [Live Site](https://gpt3-jsm.com/)
+### [Live Site](https://)
 
-![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
-
+![Modern UI/UX GPT-3](https://i.ibb.co/B3qW9hS/image.png)
